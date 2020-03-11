@@ -1,0 +1,12 @@
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai9\bin\Debug\Bai9.exe.config
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai9\bin\Debug\Bai9.exe
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai9\bin\Debug\Bai9.pdb
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai9\obj\Debug\Bai9.exe
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai9\obj\Debug\Bai9.pdb
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai9\obj\Debug\Bai9.csprojAssemblyReference.cache
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLamTuan1\module1\Bai9\bin\Debug\Bai9.exe.config
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLamTuan1\module1\Bai9\bin\Debug\Bai9.exe
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLamTuan1\module1\Bai9\bin\Debug\Bai9.pdb
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLamTuan1\module1\Bai9\obj\Debug\Bai9.csprojAssemblyReference.cache
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLamTuan1\module1\Bai9\obj\Debug\Bai9.exe
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLamTuan1\module1\Bai9\obj\Debug\Bai9.pdb

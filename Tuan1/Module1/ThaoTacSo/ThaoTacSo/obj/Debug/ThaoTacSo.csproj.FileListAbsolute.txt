@@ -1,0 +1,11 @@
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLam\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.exe.config
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLam\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.exe
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLam\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.pdb
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLam\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.exe
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLam\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.pdb
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLamTuan1\module1\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.exe.config
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLamTuan1\module1\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.exe
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLamTuan1\module1\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.pdb
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLamTuan1\module1\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.csprojAssemblyReference.cache
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLamTuan1\module1\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.exe
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLamTuan1\module1\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.pdb

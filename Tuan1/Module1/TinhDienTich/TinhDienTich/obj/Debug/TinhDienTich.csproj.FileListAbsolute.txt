@@ -1,0 +1,5 @@
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLam\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.exe.config
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLam\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.exe
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLam\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.pdb
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLam\TinhDienTich\TinhDienTich\obj\Debug\TinhDienTich.exe
+E:\thay-Phuoc\LapTrinhMoiTruongTrucQuan\TUAN 01\BaiLam\TinhDienTich\TinhDienTich\obj\Debug\TinhDienTich.pdb

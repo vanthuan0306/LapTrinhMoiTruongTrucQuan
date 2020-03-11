@@ -1,0 +1,5 @@
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai8\bin\Debug\Bai8.exe.config
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai8\bin\Debug\Bai8.exe
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai8\bin\Debug\Bai8.pdb
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai8\obj\Debug\Bai8.exe
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai8\obj\Debug\Bai8.pdb
